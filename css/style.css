@@ -82,7 +82,7 @@ nav ul a:hover::after{
 }
 nav .menu-icon{
     cursor: pointer;
-    font-size: 5px;
+    font-size: 25px;
     color: #ffffff;
     display: none;
 }
